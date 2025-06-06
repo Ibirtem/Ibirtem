@@ -14,3 +14,7 @@
 <div id="header" align="center">
   <header>Приветствую в моём скромном уголке!</header>
 </div>
+<hr>
+<div align="center" style="margin-top: 15px;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ibirtem&theme=dark&hide_total_contributions=true" alt="GitHub Streak" /></a>
+</div>
