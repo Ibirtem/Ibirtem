@@ -12,7 +12,7 @@
 </div>
 <hr>
 <div id="header" align="center">
-  <header>Приветствую в моём скромном уголке!</header>
+  <header>Приветствую в моём скромном уголке! Или нет...</header>
 </div>
 <hr>
 <div align="center" style="margin-top: 15px;">
